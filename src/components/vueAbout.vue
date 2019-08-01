@@ -24,8 +24,10 @@
                 <md-table-cell>T-71 Gemenie Apartment, Tigbao Talamban, Cebu City, Cebu, Philippines</md-table-cell>
             </md-table-row>
             <md-table-row>
-                <md-table-head>Home Address</md-table-head>
-                <md-table-cell>P-10 Km. 3 Libertad Butuan City, Agusan Del Norte, Philippines</md-table-cell>
+                <md-table-head>Email Address</md-table-head>
+                <md-table-cell>
+                    <a href="mailto:ch.paronda@gmail.com">ch.paronda@gmail.com</a>
+                </md-table-cell>
             </md-table-row>
             <md-table-row>
                 <md-table-head>Phone</md-table-head>

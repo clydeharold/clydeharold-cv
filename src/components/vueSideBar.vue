@@ -47,11 +47,6 @@
                     </a>
                 </router-link>    
             </ul>
-            <li>
-                <a href="#">
-                    <i class="fa fa-paper-plane" aria-hidden="true"></i>&nbsp;Contact
-                </a>
-            </li>
         </ul>
     </nav>
 </template>
