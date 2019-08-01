@@ -8,14 +8,16 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import VueRouter from 'vue-router'
 import {routes} from './routes';
 
-import { MdCard,MdTable,MdField} from 'vue-material/dist/components'
+import { MdCard,MdTable,MdField,MdRipple} from 'vue-material/dist/components'
 import 'vue-material/dist/vue-material.min.css'
 import 'vue-material/dist/theme/default.css'
 
 Vue.use(MdCard)
 Vue.use(MdTable)
 Vue.use(MdField)
+Vue.use(MdRipple)
 
+require('typeface-saira-extra-condensed')
 
 Vue.use(VueRouter)
 Vue.use(BootstrapVue)

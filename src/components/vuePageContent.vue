@@ -1,15 +1,14 @@
 <template>
-    <!-- Page Content  -->
-        <div id="content">
-            <div class="container-fluid changemarg">
-                   <button type="button" id="sidebarCollapse" class="btn btn-info">
-                        <i style="padding:0" class="fas fa-align-left"></i>
-                    </button>
+  <!-- Page Content  -->
+  <div id="content">
+    <md-card md-with-hover>
+       <button type="button" id="sidebarCollapse" class="btn btn-info">
+        <i style="padding:0" class="fas fa-align-left"></i>
+      </button>
 
-            </div>
-           
-            <router-view/>
-        </div>
+      <router-view/>
+    </md-card>
+  </div>
 </template>
 
 <script>

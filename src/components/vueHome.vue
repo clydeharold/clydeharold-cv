@@ -1,15 +1,18 @@
 <template>
-    <section id="about" class="resume-section p-3 p-lg-5 d-flex align-items-center">
-        <div class="w-100">
-            <span class="heading">
+    <section id="about" class="resume-section p-3 p-lg-4 d-flex align-items-center">
+        <div class="w-100" >
+           
+                <span class="heading">
                 Hello! This is
             </span>
+             <div style="text-align:center">
             <h1 class="mb-0">Clyde Harold <span class="text-primary">Paronda</span></h1> 
             <div class="subheading mb-5" style='font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important'>
                 &lt; Instructor / Developer  &gt;
             </div> 
+            </div>
             
-            <p class="lead" style="text-align:justify;margin-bottom:1em !important">    
+            <p class="lead" style="text-align:justify;margin-bottom:1.2em !important">    
                 A service-oriented individual with proven skills in teaching Web, Database and Android 
                 Development to students. 
                 Striving to teach course information, as well as critical thinking and success-building skills.  
@@ -17,7 +20,7 @@
             </p> 
             <div class="row" >
                 <div class="col">
-                    <h3>Skills</h3>
+                    <h3 style="text-align:left !important">Skills</h3>
                         <ul class="subheading">
                             <li>HTML, CSS, Vue.js, Angular</li>
                             <li>Database Design and Development</li>
@@ -46,13 +49,9 @@
     </section>
 </template>
 <style>
-    h3 {
-        font-size:1.5rem;
-        font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-        font-weight: 700;
-    }
+  
     h1 {
-        font-size:4rem;
+        font-size:6rem;
         font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         font-weight: 700;
         text-transform: uppercase;

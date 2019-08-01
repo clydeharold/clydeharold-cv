@@ -7,7 +7,7 @@
             </span>
             <h3>@clydeharold</h3>
         </div>
-        <ul class="list-unstyled components" style="padding:5px;">
+        <ul class="list-unstyled components">
             <router-link to='/' tag="li" active-class="active" exact>
                 <a>
                 <i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp;Home
@@ -57,6 +57,9 @@
 </template>
 
 <style>
+h3 {
+    text-align:center;
+}
 ul ul a {
     background-color:#17a2b8 !important;
 }
