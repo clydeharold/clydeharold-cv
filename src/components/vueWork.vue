@@ -14,7 +14,7 @@
                             <a href="http://uc.edu.ph/">
                                 University of Cebu – Banilad, Cebu, Philippines
                             </a>
-                            
+
                         </div>
                         <ul style="margin-bottom:0px; text-align:justify">
                             <li>Delivered quality education to students by establishing and maintaining a civil, productive, inclusive, and stimulating learning environment.
@@ -31,7 +31,7 @@
                     </md-card-header>
                     <md-card-content>
                         <div class="subheading mb-3">
-                            <img style="width:60px;height: 50px;" src="https://www.businesslist.ph/img/ph/j/1427793602_67960.png" alt="">
+                            <img style="width:60px;height: 50px;" src="../assets/images/tyf.png" alt="">
                             <a href="http://www.tyfinc.com/">
                                 Taking You Forward Inc., Cebu, Philippine
                             </a>
