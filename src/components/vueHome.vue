@@ -8,7 +8,7 @@
              <div style="text-align:center">
             <h1 class="mb-0">Clyde Harold <span class="text-primary">Paronda</span></h1>
             <div class="subheading mb-5" style='font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important'>
-                &lt; Instructor / <del> Developer </del> / Frustrated Writer  &gt;
+                &lt; <del> Instructor </del> / <del> Developer </del> / Frustrated Writer  &gt;
             </div>
             </div>
 
